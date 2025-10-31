@@ -17,3 +17,6 @@
 # Ignores configuration files.
 src/**.ini
 src/**.set
+compile_errors*.txt
+compile_output.log
+errors_only.txt
